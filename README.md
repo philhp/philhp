@@ -13,7 +13,7 @@ I am a Senior Systems & Software Engineer based in New Caledonia, bridging the g
 To maintain a high level of operational readiness, I work across two distinct environments:
 
 - **Official IBM Z Xplore Platform:** Primary environment for hands-on challenges, validating expertise in modern mainframe tools (Zowe, VS Code, Python).
-- **Personal R&D Lab (z/OS 2.2):** Private instance used for advanced System Programming, JCL optimization, and deep-dive testing of Subsystems (CICS, DB2) in a dedicated environment.
+- **Personal R&D Lab z/OS:** Private instance used for advanced System Programming, JCL optimization, and deep-dive testing of Subsystems (CICS, DB2) in a dedicated environment.
 
 ## 🛡️ IBM Z Certifications & Badges
 *Click on badges to verify credentials*
