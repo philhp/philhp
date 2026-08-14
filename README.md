@@ -1,4 +1,3 @@
-Hi 👋 My name is Philippe Dedieu<br><br>
 Senior Software Engineer | IBM Z<br>
 25+ Yrs Exp | Modernization (z/OS, CICS, DB2)<br>
 
